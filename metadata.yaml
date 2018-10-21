@@ -1,5 +1,5 @@
 _repo: Vittoria-Volume-5_4439
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'War stories'
 - !lcsh 'Italy -- History -- Revolution of 1848 -- Fiction'
 - !lcc 'PR'
+- GITenberg
 title: Vittoria — Volume 5
 url: http://www.gutenberg.org/ebooks/4439
